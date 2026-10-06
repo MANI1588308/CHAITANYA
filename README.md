@@ -1,0 +1,1 @@
+A simple practical project demonstrating Git and GitHub version control, including repository creation, file tracking, commits, branching, and pushing code to GitHub.A simple practical project demonstrating Git and GitHub version control, including repository creation, file tracking, commits, branching, and pushing code to GitHub.
